@@ -70,4 +70,3 @@ public class Core extends JavaPlugin {
     }
 
 }
-// e.getPlayer().teleport(new Location(Bukkit.getWorld("ProtectThePresident"), -0.5 , 64 , -0.5));
