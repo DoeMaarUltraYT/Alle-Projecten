@@ -1,0 +1,6 @@
+name: DC-Chat
+version: 1.0
+main: me.dc.thatplugincoder.chat.CoreChat
+
+commands:
+    lang:

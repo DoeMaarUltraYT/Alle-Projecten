@@ -1,0 +1,19 @@
+name: DC-Lobby
+main: me.webcoding.lobby.Core
+version: 1.0
+authors: [WebCoding, YouDontKnowMe007]
+depends: [Vault]
+commands:
+    f:
+    help:
+    announce:
+    updaterank:
+    removerank:
+    g:
+    sc:
+    ip:
+    gems:
+    a:
+    ma:
+    gm:
+    tp:

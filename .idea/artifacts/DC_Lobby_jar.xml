@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DC-Lobby.jar">
+    <output-path>$USER_HOME$/Desktop/EXTRAS/GTA V/Bungeecord/Lobby-2/plugins</output-path>
+    <root id="archive" name="DC-Lobby.jar">
+      <element id="module-output" name="DC-Lobby" />
+    </root>
+  </artifact>
+</component>

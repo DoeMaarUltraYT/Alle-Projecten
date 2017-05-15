@@ -1,0 +1,8 @@
+name: ProtectThePresident
+main: me.youdontknowme.ptp.PTP
+version: 1.0
+authors: [WebCoding, YouDontKnowMe007, IntelliJ, Eclipse, Notch]
+
+commands:
+    swat:
+    attacker:

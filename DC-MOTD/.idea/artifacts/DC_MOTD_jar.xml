@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DC-MOTD.jar">
+    <output-path>$USER_HOME$/Desktop/EXTRAS/GTA V/Bungeecord/Lobby-2/plugins/</output-path>
+    <root id="archive" name="DC-MOTD.jar">
+      <element id="module-output" name="DC-MOTD" />
+      <element id="library" level="project" name="Server" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+name: Essentials_1.6.4
+main: me.thatplugincoder.mcca.Essentials.Main
+version: 1.0
+description: Essentials 1.6.4
+author: ThatPluginCoder
+
+commands:
+   gm:

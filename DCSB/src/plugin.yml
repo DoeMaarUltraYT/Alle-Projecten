@@ -1,0 +1,7 @@
+name: DylanoCraftScoreboard
+version: 1.0
+website: www.jemoeder.nl
+main: dylanocraft.scoreboard.Main
+author: ThatPluginCoder
+depend: [PermissionsEx]
+description: DylanoCraftSB - Made by Willem (ThatHostingCoder)

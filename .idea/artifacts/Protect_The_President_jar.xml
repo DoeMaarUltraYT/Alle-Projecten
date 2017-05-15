@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Protect The President:jar">
+    <output-path>$USER_HOME$/Desktop/GTA V/Bungeecord/Lobby-2/plugins</output-path>
+    <root id="archive" name="Protect The President.jar">
+      <element id="module-output" name="Protect The President" />
+    </root>
+  </artifact>
+</component>

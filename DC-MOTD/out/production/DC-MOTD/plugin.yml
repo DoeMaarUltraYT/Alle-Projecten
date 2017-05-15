@@ -1,0 +1,4 @@
+name: MOTD
+main: me.dc.motd.MOTD
+description: MOTD
+version: 1.0
