@@ -1,3 +1,1 @@
-MC Resources proof
-
-For Developer rank on the discord 
+kittynator is dit goed?
